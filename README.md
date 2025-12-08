@@ -184,8 +184,3 @@ Output:
 **Mistu Biswas**
 Deep Learning / Machine Learning Practitioner
 
-✅ A **GitHub repository structure**
-✅ A **Jupyter Notebook (.ipynb) version**
-✅ A **presentation / PDF summary**
-
-Just tell me!
