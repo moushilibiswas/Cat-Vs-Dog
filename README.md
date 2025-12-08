@@ -1,10 +1,4 @@
 # Cat-Vs-Dog
-Here is a clean, well-structured **README.md** and **Project Overview** for your Dogs vs Cats CNN Classification project.
-You can copy-paste it directly into your GitHub repo.
-
----
-
-# 📘 **README.md – Dogs vs Cats Image Classification (CNN using TensorFlow/Keras)**
 
 ## 🐶🐱 Dogs vs Cats Classification using Convolutional Neural Networks
 
@@ -189,10 +183,6 @@ Output:
 
 **Mistu Biswas**
 Deep Learning / Machine Learning Practitioner
-
----
-
-If you want, I can also generate:
 
 ✅ A **GitHub repository structure**
 ✅ A **Jupyter Notebook (.ipynb) version**
