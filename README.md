@@ -181,6 +181,6 @@ Output:
 
 ## 👨‍💻 **10. Author**
 
-**Mistu Biswas**
+**Moushili Biswas**
 Deep Learning / Machine Learning Practitioner
 
